@@ -10,7 +10,9 @@ public class CtrlFor {
         }
 
         System.out.println("sum:" + sum);
+        System.out.print("test");
 
 
     }
+
 }
